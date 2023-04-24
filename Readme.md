@@ -4,5 +4,5 @@ Do not install with pip, but, preferentially in a venv with python 3.7 (ubuntu 1
 ```
 git clone https://github.com/neuropathbasel/minknow_api
 cd minknow_api
-pyhton setup.py install
+python setup.py install
 ```
